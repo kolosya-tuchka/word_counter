@@ -1,0 +1,10 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(510,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (lab0.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  lab0.cpp
+  bit_mask.cpp
+  file_reader.cpp
+  file_writer.cpp
+  statistic_collector.cpp
+  word_count.cpp
+  Создание кода...
+  LINK : не найден или не выполнена сборка C:\Users\akolo\NSU\cppLabs\word_counter\x64\Debug\word_count.exe при последней инкрементной компоновке; выполняется полная компоновка
+  lab0.vcxproj -> C:\Users\akolo\NSU\cppLabs\word_counter\x64\Debug\word_count.exe
